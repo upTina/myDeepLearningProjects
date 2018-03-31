@@ -1,12 +1,12 @@
-#ReadingCarLicense-Matlab
+# ReadingCarLicense-Matlab
 my Computer vision coursework
 
-#usage
+# usage
 1.matconvnet-1.0-beta23
 2.matlab
 
-#train&test
-'''
+# train&test
+```
 Text_CNN.m
 identity.m
-'''
+```
